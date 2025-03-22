@@ -38,15 +38,14 @@ login_auto_test/
    - once cloning is done, go to specific directory: login_auto_test
 
 2. Create & Activate Virtual Environment
-   python -m venv .venv
-    # Windows
-    .venv\Scripts\activate
+   - python -m venv .venv
+   - Windows: .venv\Scripts\activate
 
 3. Install Dependencies
    pip install -r requirements.txt
 
 4. Install Allure Command Line Tool
-   - Windows command: scoop install allure
+   - Windows command (install via Scoop): scoop install allure
    - or manually download from: https://github.com/allure-framework/allure2/releases
    - Once downloaded, verify installation by running this command in the terminal: allure --version
 
