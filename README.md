@@ -38,8 +38,8 @@ login_auto_test/
    - once cloning is done, go to specific directory: login_auto_test
 
 2. Create & Activate Virtual Environment
-   - python -m venv .venv
-   - Windows: .venv\Scripts\activate
+   - create virtual environment by running this command in the terminal: python -m venv .venv
+   - activate virtual environment by running this command in the terminal: .venv\Scripts\activate
 
 3. Install Dependencies
    pip install -r requirements.txt
