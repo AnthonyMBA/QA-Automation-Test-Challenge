@@ -63,3 +63,17 @@ login_auto_test/
 ## 📌 Additional Notes: 
 1. individual reports (JSON File) per scenario will be automatically saved under the "reports" directory.
 2. data_behaviors.csv and data_suites.csv are manually downloaded from the Allure Visual Report and transferred in the "reports" directory.
+
+---
+
+## 📑 References
+ - Selenium Documentation
+ - Behave BDD
+ - Allure Reports
+ - ChromeDriver
+
+---
+
+## 👨‍💻 Author
+Anthony Marr Ablaza
+https://github.com/AnthonyMBA
